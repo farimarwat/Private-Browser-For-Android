@@ -9,6 +9,10 @@
 
 ---
 
+<img src="Logo.png" width="200">
+
+---
+
 ## 🛡️ What is Zed Private Browser?
 
 Zed is a **free private browser for Android** that puts your privacy first. Unlike ordinary browsers that save everything you do, Zed works as a **permanent incognito browser** — your browsing history, cookies, cache, and session data are **wiped automatically** every time you close the app.
