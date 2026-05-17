@@ -117,8 +117,12 @@ Many browsers claim to be private but still collect your data in the background.
 
 ## 📱 Screenshots
 
-> *Screenshots coming soon — download from [Google Play](https://play.google.com/store/apps/details?id=com.browser.red) to see the latest UI.*
-
+<p align="center">
+  <img src="01.png" width="200"/>
+  <img src="02.png" width="200"/>
+  <img src="03.png" width="200"/>
+  <img src="04.png" width="200"/>
+</p>
 ---
 
 ## 🚀 Getting Started
